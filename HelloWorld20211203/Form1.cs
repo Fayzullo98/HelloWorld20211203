@@ -19,7 +19,7 @@ namespace HelloWorld20211203
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hello";
+            label1.Text = "Heyy";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -29,7 +29,7 @@ namespace HelloWorld20211203
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label1.Text = "Makhmud";
+            label1.Text = "Fayzullo";
         }
     }
 }
